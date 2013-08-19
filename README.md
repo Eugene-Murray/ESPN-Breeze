@@ -1,6 +1,6 @@
 ESPN + Breeze
 ===============
-[Patrick Walter](https://github.com/PWKad/) built a "Not My Server" style application that shows Breeze using data from a 3rd party service.
+[Patrick Walter](https://github.com/PWKad/)'s "Not My Server" style application shows Breeze using data from a 3rd party service.
 
 ##Prerequisites
 1.  Bootsrap.js
