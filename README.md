@@ -1,6 +1,6 @@
 ESPN + Breeze
 ===============
-[Patrick Walter](https://github.com/PWKad/)built a "Not My Server" style application that shows Breeze using data from a 3rd party service.
+[Patrick Walter](https://github.com/PWKad/) built a "Not My Server" style application that shows Breeze using data from a 3rd party service.
 
 ##Prerequisites
 1.  Bootsrap.js
@@ -26,7 +26,7 @@ Key functions in this application include datacontext.js, model.js, and jsonResu
 
 There are a few cool Breeze things going on in this project I wanted to point out: 
 
-1. Inside App/services/model.js you will find how to add entity types without using MetaData
+1. Inside App/services/model.js you will find how to add entity types without using metadata
 2. Inside App/services/datacontext.js you will find a few 'gems' -
 - How to use 'toType' in your Breeze queries
 - How to add parameters onto your queries to an API
