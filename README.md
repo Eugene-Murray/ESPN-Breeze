@@ -3,7 +3,7 @@ ESPN + Breeze
 [Patrick Walter](https://github.com/PWKad/)'s "Not My Server" style application shows Breeze using data from a 3rd party service.
 
 ##Prerequisites
-1.  Bootsrap.js
+1.  Bootstrap.js
 2.	Breeze.js
 3.	Durandal (jQuery.js, Knockout.js, Require.js) 
 4.	q.js
@@ -28,12 +28,12 @@ There are a few cool Breeze things going on in this project I wanted to point ou
 
 1. Inside App/services/model.js you will find how to add entity types without using metadata
 2. Inside App/services/datacontext.js you will find a few 'gems' -
-- How to use 'toType' in your Breeze queries
-- How to add parameters onto your queries to an API
-- How to add a custom JSON results adapter
+ * How to use 'toType' in your Breeze queries
+ * How to add parameters onto your queries to an API
+ * How to add a custom JSON results adapter
 3. Inside App/services/jsonResultsAdapter.js you will find a few 'stones' -
-- How to create a basic results adapter that Breeze uses when data is returned (when 'toType' isn't enough)
-- How to map new properties on top of the data
+ * How to create a basic results adapter that Breeze uses when data is returned (when 'toType' isn't enough)
+ * How to map new properties on top of the data
 
 In addition, there are a few cool Knockout things going on: 
 
